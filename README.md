@@ -10,7 +10,7 @@ This project dives into Indian Railway delays with interactive visualizations to
 
 🎨 Visual Treats – Heatmaps, histograms & comparisons
 
-⚡ Interactive Dashboards – Plotly & Cufflinks for dynamic insights
+⚡ Interactive Dashboards – Plotly and Cufflinks for dynamic insights
 
 🔎 Storytelling with Data – Patterns across routes, timings, and seasons
 
